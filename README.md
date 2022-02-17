@@ -19,8 +19,8 @@ Predict the CO2 emission of a car where the weight is 3300kg, and the volume is 
 Print the predicted output.
 ## Program:
 ```
-Developed by: Harini.B
-Register number: 212221230035
+Developed by: pragatheesvaran AB
+Register number: 212221240035
 
 import pandas as pd
 from sklearn import linear_model
